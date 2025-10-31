@@ -1,0 +1,3 @@
+ibm-watsonx-orchestrate
+atlassian-python-api
+requests-mock
